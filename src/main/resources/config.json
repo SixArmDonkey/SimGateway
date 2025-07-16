@@ -1,0 +1,40 @@
+{
+  "server": {
+    "port": 4201
+  },
+  
+  "devices": [
+    {
+      "name" : "Arduino Uno",
+      "serial" : "442383131393513132F1",
+      "description" : "Prototype development LCD controller",
+      "components" : {
+        "toggle" : {
+          
+        },
+        
+        "momentary" : {
+          
+        },
+        
+        "rotary" : {
+          
+        },
+        
+        "lcd_character" : {
+          "main" : {
+            "description": "The main LCD display",
+            "address": 1,
+            "sim": {
+              "dcs": 1
+            }
+          }
+        },
+        
+        "led" : {
+          
+        }
+      }
+    }
+  ]
+}
