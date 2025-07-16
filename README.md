@@ -76,6 +76,7 @@ void loop() {
     }
   }
 }
+```
 
 ### 2. SimGateway Configuration (`config.json`)
 
@@ -104,6 +105,7 @@ Create a `config.json` file in the same directory as the SimGateway JAR file. Th
     }
   ]
 }
+```
 
 ### 3. DCS World Export Script (`Export.lua`)
 
@@ -137,6 +139,7 @@ end
 function LuaExportStop()
   tcp:close()
 end
+```
 
 ### 4. Run It! 🚀
 
