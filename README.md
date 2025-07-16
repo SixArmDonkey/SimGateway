@@ -326,5 +326,5 @@ This entire project demonstrates a full-stack engineering capability, from high-
 
 ## Hardware Writes 
 
-![Hardware Writes](DataSequence.png)
+![Hardware Writes](DeviceSequence.png)
 
